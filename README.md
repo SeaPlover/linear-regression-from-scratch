@@ -122,7 +122,7 @@ SGD сделан **детерминированным** через `np.random.Ra
 1. Клонировать репозиторий
 2. Установить зависимости:
    ```bash
-   pip install numpy pandas scikit-learn matplotlib seaborn
+   pip install -r requirements.txt
 3. Поместить файлы train.json и test.json в папку data/
 4. Запустить ноутбук ML2.ipynb 
    ```bash
